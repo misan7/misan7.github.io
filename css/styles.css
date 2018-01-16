@@ -38,7 +38,7 @@ section {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0; } }
+    padding: 50px 0 200px 0; } }
 
 .btn {
   font-family: Helvetica, Arial, sans-serif;
@@ -464,3 +464,7 @@ ul.social-buttons {
     background-color: #212529; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
       background-color: #004EFF; }
+
+  .love-icon {
+    color: red;
+  }
